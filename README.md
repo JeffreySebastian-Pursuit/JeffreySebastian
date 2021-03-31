@@ -24,7 +24,7 @@ const howOldAreYou = () => {
 };
 ```
 # Image
-![image](https://user-images.githubusercontent.com/75052251/113074370-f2d47b00-9198-11eb-80dc-e9bba6add4e3.png))
+![image](https://user-images.githubusercontent.com/75052251/113074370-f2d47b00-9198-11eb-80dc-e9bba6add4e3.png)
 
 
 
