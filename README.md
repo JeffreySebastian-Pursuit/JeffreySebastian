@@ -6,7 +6,7 @@ Intro to JavaScript
 Created a textBasedAdventure
 
 ```textBasedAdventure
-// This function validate the users age before playing the game//
+// This function validate the users age before playing the game //
 const howOldAreYou = () => {
   let age = Number(readLineSync.question("How old are you?"));
   if (!age) {
@@ -24,8 +24,7 @@ const howOldAreYou = () => {
 };
 ```
 # Image
-![textAdventure](textAdventure![image](https://user-images.githubusercontent.com/75052251/113074023-40041d00-9198-11eb-95c4-5a8bba84350d.png)
-)
+![image](https://user-images.githubusercontent.com/75052251/113074370-f2d47b00-9198-11eb-80dc-e9bba6add4e3.png))
 
 
 
@@ -59,6 +58,5 @@ button.addEventListener("click", (e) =>{
 })
 ```
 # Project gif
-![personalProject](PersonalWebsite.gif![image](https://user-images.githubusercontent.com/75052251/113073826-dd128600-9197-11eb-9634-7483dd0c026e.png)
-)
+![gif](https://user-images.githubusercontent.com/75052251/113073826-dd128600-9197-11eb-9634-7483dd0c026e.png)
 
