@@ -58,5 +58,5 @@ button.addEventListener("click", (e) =>{
 })
 ```
 # Project gif
-![gif](https://user-images.githubusercontent.com/75052251/113073826-dd128600-9197-11eb-9634-7483dd0c026e.png)
+![gif](https://user-images.githubusercontent.com/75052251/113077386-0c78c100-919f-11eb-94f1-1059cd614254.mp4)
 
